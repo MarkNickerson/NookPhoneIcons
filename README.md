@@ -6,6 +6,8 @@ Feel free to download and use on your phone! You can find a tutorial on how to u
 
 I'll probably be adding more to the list as we go~
 
-## Sample Screen
+## Icons
+<img src="https://i.imgur.com/rl8WFPl.png" width="10%" /> <img src="https://i.imgur.com/bWT449O.png" width="10%" /> <img src="https://i.imgur.com/u86v8Oj.png" width="10%" /> <img src="https://i.imgur.com/xktANGB.png" width="10%" /> <img src="https://i.imgur.com/wl6YIBL.png" width="10%" /> <img src="https://i.imgur.com/bia1btG.png" width="10%" /> 
 
-![](/ACNH_NookPhoneIcons/Sample/SampleScreen_1.PNG  "Screen")
+## Sample Screen
+<img src="https://i.imgur.com/RooF6wn.png" width="25%" />

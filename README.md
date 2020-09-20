@@ -6,4 +6,6 @@ Feel free to download and use on your phone! You can find a tutorial on how to u
 
 I'll probably be adding more to the list as we go~
 
+## Sample Screen
 
+![](/ACNH_NookPhoneIcons/Sample/SampleScreen_1.PNG  "Screen")

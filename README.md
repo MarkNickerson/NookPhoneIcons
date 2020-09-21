@@ -1,4 +1,4 @@
-# ACNH Nookphone Inspired Icons
+# ACNH NookPhone Inspired Icons
 
 I was inspired by [this icon pack](https://gumroad.com/l/FyjHm) created by [@okpng](https://twitter.com/okpng?lang=en) and wanted to make some more icons for apps that weren't included in the pack.
 
